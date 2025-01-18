@@ -1,4 +1,5 @@
 # Queue Data Structure in JavaScript 🚀  
+Tiktok tu
 
 A simple implementation of the **Queue** data structure in JavaScript. This repository demonstrates how to create a queue class with essential methods and explains its functionality with practical examples.  
 
@@ -15,6 +16,12 @@ A **Queue** is a data structure that follows the **FIFO** (First In, First Out) 
 - **Peek**: View the first item without removing it.  
 - **isEmpty**: Check if the queue is empty.  
 - **Size**: Get the number of items in the queue.  
+
+---
+
+## TikTok Tutorial 🎥  
+Want to see a quick tutorial on how to build this? Check out this TikTok video:  
+[https://www.tiktok.com/@jsmentoring/video/7461216459239247136](https://www.tiktok.com/@jsmentoring/video/7461216459239247136)  
 
 ---
 
